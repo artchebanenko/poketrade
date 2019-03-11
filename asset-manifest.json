@@ -1,0 +1,13 @@
+{
+  "main.js": "/poketrade/static/js/main.f2dbe5ee.chunk.js",
+  "main.js.map": "/poketrade/static/js/main.f2dbe5ee.chunk.js.map",
+  "runtime~main.js": "/poketrade/static/js/runtime~main.fc447214.js",
+  "runtime~main.js.map": "/poketrade/static/js/runtime~main.fc447214.js.map",
+  "static/js/2.9ef032d4.chunk.js": "/poketrade/static/js/2.9ef032d4.chunk.js",
+  "static/js/2.9ef032d4.chunk.js.map": "/poketrade/static/js/2.9ef032d4.chunk.js.map",
+  "index.html": "/poketrade/index.html",
+  "precache-manifest.6e99bf3618cddd5553a45485110ab8be.js": "/poketrade/precache-manifest.6e99bf3618cddd5553a45485110ab8be.js",
+  "service-worker.js": "/poketrade/service-worker.js",
+  "static/media/card-back-small.png": "/poketrade/static/media/card-back-small.ce3a314e.png",
+  "static/media/hero.png": "/poketrade/static/media/hero.30bc8a16.png"
+}
